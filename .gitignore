@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+.vscode/
+assignment4/
+burlap/
+MDP.ipynb
+plane_env.py
+*.docx
+*.pdf

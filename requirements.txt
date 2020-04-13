@@ -1,0 +1,6 @@
+matplotlib
+gym
+numpy
+tqdm
+./hiivemdptoolbox
+./toh-gym
